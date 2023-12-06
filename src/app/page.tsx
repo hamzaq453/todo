@@ -84,7 +84,7 @@ export default function Home() {
                   className="remove-task"
                   onClick={() => handleTaskRemoveClick(index)}
                 >
-                  Remove
+                  
                 </span>
               </li>
             ))}
